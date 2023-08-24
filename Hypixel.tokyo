@@ -1,0 +1,742 @@
+{
+  "Modules": {
+    "Scaffold": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Normal",
+        "Place Timing": "Pre",
+        "Expand Blocks": 5.0,
+        "Sprint": "Off",
+        "Tower": "None",
+        "Sneak": "Off",
+        "Sneak Blocks": 1.0,
+        "Stop Distance": 0.1,
+        "Motion Speed": 0.18,
+        "Rotations Mode": "Watchdog",
+        "Max Turn Speed": 125.0,
+        "Min Turn Speed": 95.0,
+        "Rotations Tick": 20.0,
+        "Rotations Yaw": -145.0,
+        "Rotations Pitch": 80.0,
+        "Legit Strafe": false,
+        "Lock Rotation": false,
+        "Auto Move Block": false,
+        "Watch Dog": true,
+        "Keep Y": false,
+        "Only Speed": false,
+        "Safe Walk": false,
+        "Timer": 1.0,
+        "Motion": 1.0,
+        "Motion When Speed": 1.0,
+        "Counter": true,
+        "Predictor": true,
+        "Swing": false
+      }
+    },
+    "Sprint": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Omni Mode": "Off",
+        "Attack Checks": false
+      }
+    },
+    "Speed": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Watchdog",
+        "Vulcan Mode": "Bypass",
+        "No Jump Delay": false,
+        "Timer": false,
+        "Launch Speed": 1.600000023841858,
+        "Add Y Motion": 0.0,
+        "Motion Y": 0.0,
+        "Up Timer": 1.0,
+        "Down Timer": 1.0,
+        "Ground Stay": 0.0,
+        "Ground Reset XZ": false,
+        "Reset XZ": false,
+        "Reset Y": false,
+        "Do Launch Speed": true,
+        "Motion Speed": 0.46,
+        "Speed Potion": 0.0,
+        "Hop Type": "Normal",
+        "Explosion Boost": false,
+        "Damage Strafe": false,
+        "Boost Value": 0.44999998807907104,
+        "Off Set": false,
+        "Quick stop": false,
+        "Lag Back Checks": true
+      }
+    },
+    "No Slow Down": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Watchdog",
+        "Eating": true,
+        "Only Move": true,
+        "Bypass": true,
+        "Cancel C09": true,
+        "No Switch": true,
+        "Extra Packet": true
+      }
+    },
+    "Flight": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Motion",
+        "View Bobbing": true,
+        "Toggle Aura": true,
+        "Motion": 2.5
+      }
+    },
+    "Step": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Watchdog",
+        "Step Height": 1.0
+      }
+    },
+    "Long Jump": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0
+    },
+    "Anti Fall": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Delay": 1000.0,
+        "Clear Sizes": 200.0,
+        "Fall Distance": 1.0
+      }
+    },
+    "Jesus": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0
+    },
+    "Phase": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0
+    },
+    "SafeWalk": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0
+    },
+    "Kill Aura": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Watchdog",
+        "Sorting Method": "Health",
+        "Attack Method": "Pre",
+        "Switch Delay": 1050.0,
+        "Max APS": 11.0,
+        "Min APS": 9.0,
+        "Range": 5.0,
+        "Pit Mode": true,
+        "Attacks Delay": false,
+        "Auto Block": true,
+        "Block Range": 5.0,
+        "Optimize Rots": true,
+        "Smooth Sensitivity": true,
+        "Random Angle": false,
+        "Lock View": false,
+        "Turn Speed": 178.0,
+        "Always Attacking": true,
+        "Ray Trace": false,
+        "Keep Sprint": true,
+        "Force Update": false,
+        "Gui Checks": true,
+        "Indicator": true,
+        "Targets Filter": [
+          "Players",
+          "Villagers"
+        ]
+      }
+    },
+    "Velocity": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Watchdog",
+        "Horizontal": 0.0,
+        "Vertical": 0.0,
+        "Checks Motion Y": true,
+        "Ticks Decrease": 6.0
+      }
+    },
+    "Criticals": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Packet",
+        "Delay": 500.0,
+        "Hurt time": 20.0,
+        "Random offset": false,
+        "Anti critical": true,
+        "Debug": true
+      }
+    },
+    "Reach": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Reach": 3.5
+      }
+    },
+    "Hit Box": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Expand Range": 2.0
+      }
+    },
+    "Auto Clicker": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Min APS": 9.0,
+        "Max APS": 12.0,
+        "Right Click": false
+      }
+    },
+    "Auto Potion": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Aura Checks": true,
+        "Gui Checks": true,
+        "Potting": true,
+        "Jump Only": true,
+        "Health": 6.0,
+        "Delay": 600.0,
+        "Slot": 7.0,
+        "Dist Check": true,
+        "Player Dist": 1.0
+      }
+    },
+    "Regen": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Packet size": 10.0
+      }
+    },
+    "Target Strafe": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Hold Space": true,
+        "Range": 2.0,
+        "Render": true,
+        "Color": "8000ff00"
+      }
+    },
+    "Desync": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Enabled Color": true,
+        "Color": "ffff80ab"
+      }
+    },
+    "Auto Head": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Health Percent": 75.0,
+        "Min Delay": 75.0,
+        "Max Delay": 125.0,
+        "Regen Secs": 4.599999904632568,
+        "Absorp Wait": true,
+        "Regen Wait": true
+      }
+    },
+    "Anti Bot": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0
+    },
+    "HUD": {
+      "state": true,
+      "visible": true,
+      "key-bind": 0,
+      "Options": {
+        "Client Name": "Japan",
+        "Hud Mode": "Tsukasa",
+        "Color Mode": "Blend",
+        "Color": "fff84ea0",
+        "Second Color": "ff6969f2",
+        "Third Color": "ff46c3fc",
+        "Speed": 10.0,
+        "Color Speed": 50.0,
+        "Saturation": 0.75,
+        "Brightness": 0.85,
+        "Sorting Mode": "Normal",
+        "Arraylist Position": "Right",
+        "Arraylist Animation": "Slide",
+        "Shader Effect": "Glow",
+        "Background Effect": "Shadow",
+        "settings": [
+          "Lowercase",
+          "PositionModify",
+          "TextShadow"
+        ],
+        "Suffix": true,
+        "Blur": false
+      }
+    },
+    "Chams": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Hands": true,
+        "F-Layer Flat": true,
+        "S-Layer Flat": true,
+        "Texture F-Layer": false,
+        "Texture S-Layer": false,
+        "F-Color Mode": "Color",
+        "S-Color Mode": "Color",
+        "F-Layer Alpha": 1.0,
+        "S-Layer Alpha": 0.4,
+        "F-Color": "fff253c3",
+        "S-Color": "ffff80ab",
+        "F-Color-2": "ff7986cb",
+        "S-Color-2": "ffff80ab"
+      }
+    },
+    "ESP": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Targets": [
+          "Players",
+          "Friends",
+          "Teammates"
+        ],
+        "Tags": true,
+        "Tags Background": true,
+        "Tags Blur": true,
+        "Tags Shadow": false,
+        "2D ESP": false,
+        "Box": false,
+        "Box Color": "ffff80ab",
+        "Armor Bar": true,
+        "Armor Color": "ffff5050",
+        "Render Armor": true,
+        "Health Bar": true,
+        "HP Fade": true,
+        "HP Color Mode": "Normal",
+        "HP Color": "ff00ff59",
+        "HP End": "fff44336",
+        "Held Item": true,
+        "Glow": false,
+        "Skeletons": false
+      }
+    },
+    "Camera": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Hurt Shake": false,
+        "View Clip": true,
+        "Mode": "Gamma"
+      }
+    },
+    "Indicators": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "F-Color": "ff7986cb",
+        "S-Color": "ffff80ab",
+        "Outline": false,
+        "Arrows Mode": "Triangle",
+        "Arrows Size": 4.0,
+        "Stretch Radius": 1.5,
+        "Radius": 100.0
+      }
+    },
+    "Crosshair": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Width": 1.0,
+        "Length": 4.0,
+        "Gap": 2.0,
+        "Dynamic": true,
+        "Dynamic Gap": 1.0,
+        "Dot": true,
+        "Thickness": 1.0,
+        "Outline Thickness": 0.5,
+        "Color": "ffa5f2ce"
+      }
+    },
+    "Hit Markers": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Gap": 2.0,
+        "Length": 4.0,
+        "Thickness": 1.0,
+        "Hit Color": "ffffffff",
+        "Kill Color": "ffff0000",
+        "Hit Sound": true,
+        "Sound Mode": "Alien",
+        "Volume": 100.0
+      }
+    },
+    "Damage Particles": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Alive Ticks": 14.0,
+        "Outline": true
+      }
+    },
+    "Ambience": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Time": 17500.0,
+        "Light Map": true,
+        "Light Color": "ffa87efc",
+        "Weather": "Default",
+        "Snow Color": "ff7e5eb5",
+        "Thunder": false
+      }
+    },
+    "Chest ESP": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Flat",
+        "F-Layer Flat": false,
+        "S-Layer Flat": true,
+        "F-Layer Color": "ff1976d2",
+        "S-Layer Color": "ffff80ab",
+        "Color": "32f540f5",
+        "Border": true
+      }
+    },
+    "Image Displayer": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Type": "Safe"
+      }
+    },
+    "Bounty Target": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0
+    },
+    "Target HUD": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Rise",
+        "Health Color": "Sync",
+        "Animate": true,
+        "Render Time": 1.0,
+        "Colorful Background": true
+      }
+    },
+    "Gui Move": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Only CGui": true,
+        "Bypass": "Packet"
+      }
+    },
+    "Ping Spoof": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0
+    },
+    "Chest Stealer": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Click Delay": 0.0,
+        "Close Delay": 65.0,
+        "Auto Disable": true,
+        "Title Check": true,
+        "Archery": false
+      }
+    },
+    "Hacker Detector": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Checks": [
+          "NoSlow"
+        ]
+      }
+    },
+    "Auto Bow": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0
+    },
+    "Killsults": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Language": "English",
+        "Shout Global": false,
+        "Prefix": "[tsukasa . club]"
+      }
+    },
+    "Sniper": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Username": "mingngo123"
+      }
+    },
+    "Screenshots": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "No Save": true,
+        "Compact": true,
+        "Favorite Action": true,
+        "Delete Action": true,
+        "Copy Action": true,
+        "Folder Action": true,
+        "No Pending": true
+      }
+    },
+    "Block Animation": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Slide",
+        "Rotate Mode": "None",
+        "Swing Mode": "None",
+        "Swing Block": false,
+        "Swing Multi": 1.0,
+        "Speed Rotate": 1.0,
+        "Custom X": 0.0,
+        "Custom Y": 0.0,
+        "Custom Z": 0.0,
+        "Item Scale": 1.0,
+        "Speed": 2.0,
+        "Equip Progress": 2.0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "X Scale": 1.0,
+        "Y Scale": 0.5,
+        "Z Scale": 1.0
+      }
+    },
+    "Optimizations": {
+      "state": true,
+      "visible": true,
+      "key-bind": 0,
+      "Options": {
+        "Optimizations": [
+          "No_Fog",
+          "Merge_TNT",
+          "No_Foliage",
+          "Particle_Culling",
+          "Better_Skin_Loading",
+          "Disable_Armor_Stand",
+          "Chunk_Update_Limiter",
+          "Disable_Lightning_Bolt",
+          "Entity_Culling"
+        ],
+        "Culling Distance": 39.0,
+        "Culling Delay": 3.0,
+        "Chunk Update Delay": 87.0,
+        "Culling Fix": true
+      }
+    },
+    "Settings": {
+      "state": true,
+      "visible": true,
+      "key-bind": 0,
+      "Options": {
+        "Better FPS": "Rivensfull",
+        "Cape": "White",
+        "Custom Hot Bar": true,
+        "Health": false,
+        "Smooth Chat": true,
+        "Unlimited Chat": false,
+        "Alpha Fire": true,
+        "Projectiles": false,
+        "Smooth Perspective": false,
+        "Armor HUD": false,
+        "Pack Spoof": false,
+        "Saturation Bar": true,
+        "TabUI Animation": false,
+        "Zoom Animation": false,
+        "Sneak Animation": false,
+        "Session Info": true,
+        "Item Physic": true,
+        "Item Info": true,
+        "Outline": true,
+        "Fast Place": true,
+        "Place Speed": 1.0,
+        "Memory Fix": true
+      }
+    },
+    "Click GUI": {
+      "state": false,
+      "visible": true,
+      "key-bind": 0,
+      "Options": {
+        "Draw Anime Girls": true,
+        "Anime Girls": "Kitagawamarincosplaying",
+        "Background": "Gradient",
+        "Theme": "Default"
+      }
+    },
+    "Auto Tool": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Min delay": 0.0,
+        "Max delay": 100.0,
+        "Use Sword": false,
+        "Switch Sword": true,
+        "Silent": true
+      }
+    },
+    "Inventory Manager": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Openinv",
+        "Delay": 70.0,
+        "Auto Disable": true,
+        "Auto Armor": true,
+        "Drop Items": true,
+        "Sort Items": true,
+        "Ignore Formatted Item": true
+      }
+    },
+    "No Fall": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Watchdog",
+        "Fall Distance": 2.5,
+        "No Sound": false
+      }
+    },
+    "Helper": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Better Chat": true,
+        "Chat Bypass": false,
+        "Auto Play": false,
+        "Play Delay": 5.0,
+        "Auto Login": false,
+        "Password": "123123",
+        "Greet": true,
+        "Join Game": true,
+        "End Game": true,
+        "Shout Global": false,
+        "Join Message": "hello",
+        "End Message": "gg"
+      }
+    },
+    "Streamer Mode": {
+      "state": true,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Skin Player": "Custom",
+        "Custom Skin": "Girl",
+        "Spoof Skin Player": false,
+        "Hide Boss health": false,
+        "Hide Scoreboard": false,
+        "Hide Tab gui": false,
+        "Hide Name": true,
+        "Hide Other Name": false,
+        "Player Name": "Litely",
+        "Other Name": "Amongus"
+      }
+    },
+    "Speed Mine": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0,
+      "Options": {
+        "Mode": "Damage"
+      }
+    },
+    "Blink": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0
+    },
+    "No Rotate": {
+      "state": false,
+      "visible": false,
+      "key-bind": 0
+    }
+  },
+  "Client-settings": {
+    "MM-Shaders": 1,
+    "TargetHUD-Width": 506.0,
+    "TargetHUD-Height": 297.0,
+    "SessionInformation-Width": 20.0,
+    "SessionInformation-Height": 51.0,
+    "BountyTarget-Width": 0.0,
+    "BountyTarget-Height": 0.0
+  }
+}
